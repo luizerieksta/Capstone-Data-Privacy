@@ -1,0 +1,30 @@
+.center_spacing {
+	margin: 20px auto;
+}
+
+input {
+	display: block;
+	border: 4px solid rgb(132, 155, 146);
+	margin: 20px auto;
+	height: 40px;
+	width: 400px;
+	font-size: 2em;
+
+}
+
+button {
+	display: block;
+	margin: 20px auto;
+	font-size: 3em;
+	padding: 5px 26px;
+	cursor: pointer;
+	border-radius: 20px;
+	background-color: rgba(175, 206, 195,0.5);
+	font-family: 'Bai Jamjuree', sans-serif;
+}
+
+#image {
+	display: none;
+	width: 1650px;
+	height: 928px;
+}
